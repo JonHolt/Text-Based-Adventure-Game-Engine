@@ -1,0 +1,8 @@
+C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\bin\Debug\TextBasedEngine.exe.config
+C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\bin\Debug\TextBasedEngine.exe
+C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\bin\Debug\TextBasedEngine.pdb
+C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\obj\Debug\TextBasedEngine.Form1.resources
+C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\obj\Debug\TextBasedEngine.Properties.Resources.resources
+C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\obj\Debug\TextBasedEngine.csproj.GenerateResource.Cache
+C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\obj\Debug\TextBasedEngine.exe
+C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\obj\Debug\TextBasedEngine.pdb
