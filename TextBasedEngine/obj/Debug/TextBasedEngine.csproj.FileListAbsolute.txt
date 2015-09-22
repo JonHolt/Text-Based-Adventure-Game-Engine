@@ -6,3 +6,4 @@ C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\obj\Deb
 C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\obj\Debug\TextBasedEngine.csproj.GenerateResource.Cache
 C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\obj\Debug\TextBasedEngine.exe
 C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\obj\Debug\TextBasedEngine.pdb
+C:\Users\jholt\Documents\ProgrammingClub\TextBasedEngine\TextBasedEngine\obj\Debug\TextBasedEngine.csprojResolveAssemblyReference.cache

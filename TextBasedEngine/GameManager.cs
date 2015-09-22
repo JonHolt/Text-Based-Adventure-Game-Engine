@@ -22,6 +22,8 @@ namespace TextBasedEngine
             window.SetPrompt("Welcome to the text based adventure game engine! Simply add methods in the Game Manager File to get started. All methods will use the following two methods to interface with this window:\r\n\r\n\nwindow.SetPrompt(string):\r\n\tThis method sets the promt the user will see in this textbox.\r\n\r\nwindow.AddChoice(string, EventHandler):\r\n\tThis method will add a button to the window giving the user another choice to click. Simply give it a string (something to say), and the name of the method it should call when clicked. All methods that will be called when clicked must accept an object and an EventArgs in the same way ExampleStart does.");
             window.AddChoice("I understand", Understood);
             window.AddChoice("Wait... what?", Confused);
+            window.AddChoice("This\r\nis\r\na\r\nbig\r\nbutton\r\test",null);
+            window.AddChoice("This\r\nis\r\na\r\nbig\r\nbutton\r\test", null);
         }
 
         public static void Understood(object s, EventArgs e)

@@ -34,14 +34,15 @@ namespace TextBasedEngine
         public void AddChoice(string text, EventHandler action)
         {
             Button btn = new Button();
+            btn.Anchor = (AnchorStyles.Left | AnchorStyles.Right);
             btn.Top = currentHeight;
             btn.Left = MARGIN;
-            btn.Width = this.Width - (2 * MARGIN);
+            btn.Width = tbPrompt.Width;
             btn.Text = text;
             btn.Click += Reset;
             btn.Click += action;
             btn.AutoSize = true;
-            btn.Anchor = (AnchorStyles.Left | AnchorStyles.Right);
+            
 
             choices.Add(btn);
             Controls.Add(btn);
